@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testng.remote.remote7_8" type="repository">
+    <properties maven-id="org.testng.testng-remote:testng-remote7_8:1.5.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/testng-remote7_8-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testng-remote-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
